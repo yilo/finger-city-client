@@ -1,0 +1,18 @@
+body {
+	background-color:#50dede;
+	color:#fff;
+}
+
+.no-padding{
+	padding: 0em;
+}
+.no-margin{
+	margin:0em;
+}
+
+li.row i.fa{
+	border-radius: 20px 20px 20px 20px;
+	-moz-border-radius: 20px 20px 20px 20px;
+	-webkit-border-radius: 20px 20px 20px 20px;
+	border: 0px solid #ccc;
+}
